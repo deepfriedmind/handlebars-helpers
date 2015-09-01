@@ -26,6 +26,7 @@ var helpers = [
     'repeat',
     'subtract',
     'title-case',
+    'truncate',
     'urlify'
 ];
 
